@@ -4,7 +4,7 @@ A glimpse of it...(video)
 
 [![QuaDMoD](https://img.youtube.com/vi/_M4J-OFZU7Q/0.jpg)](https://www.youtube.com/watch?v=_M4J-OFZU7Q)
 
-QuadMod comes with 4 features no would have ever thought in a lamp. The four modes are as follows-
+QuadMod comes with 4 features, no one would have ever thought of in a lamp. The four modes are as follows-
 
 **Study Mode** - The lamp is ready whenever you are! QuadMod gets activated if it sees a person around it and go to sleep if
 no one is around. It has a PIR sensor and on sensing any motion it comes down.
